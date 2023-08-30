@@ -1,0 +1,103 @@
+
+// this is a js file
+// Luiza Orquiz
+// Aula 11 Tarde
+/*
+// exercicio 2:
+function imprimirOlaMundo(){
+    console.log("Ola mundo!");
+}
+imprimirOlaMundo();
+
+function escreveNome(nome){
+   console.log(nome);
+}
+let meuNome = "Luiza";
+escreveNome(meuNome);
+const a = 1
+
+function imprimeVaraivel() {
+const b = 1
+console.log('Variavel a', a)
+console.log(`Varaivel b` , b)
+}
+imprimeVariavel()
+
+console.log(`Variavel a`, a)
+console.log('Variavel b' ,b)
+*/
+
+//--------
+// exercicio 3:
+/*
+function calculaArea(altura, largura){
+    const area = altura * largura;
+    return area;
+}
+const areaCalculada = calculaArea(5, 8);
+console.log("Variavel areacalculada: "+ areaCalculada);
+console.log("Chamada da funcao crua: " + calculaArea(5, 3));
+//------
+
+function calculaNumero(Number2 , number){
+const numero = Number2 + number;
+return numero;
+}
+const resultado = calculaNumero (30 , 78);
+console.log("Resultado:" + calculaNumero(40 , 58));
+*/
+
+// exercicio 4:
+
+function numeros(numeros4){
+    let c = [(numeros4[0]/2), (numeros4[numeros4.length-1]/2)];
+
+  //c[0] = numeros4 [0] /2;
+  //c[1] = numeros4[1] /2;
+    return c;
+}
+const array = [1,2,3,4,5,6];
+console.log(numeros(array));
+
+//------
+// exemplo:
+let h = 4;
+console.log(h);
+function a(){};
+
+//------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
